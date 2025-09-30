@@ -6,7 +6,7 @@ Skilled in **Python, Matlab, MySQL, Generative AI, and Deep Learning frameworks*
 
 How to reach me: ![Personal Website](https://cyrushasanvand.github.io/)
 
-### 🚀 GitHub Stats
+### GitHub Stats
 ![Cyrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusHasanvand&show_icons=true&theme=radical)
 
 ### 📈 Top Languages

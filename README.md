@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I’m Cyrus Hasanvand 
 
-<!--
-**CyrusHasanvand/CyrusHasanvand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **Machine Learning, Computational Neuroscience, and AI-driven Systems** 
+Currently exploring **Robustness, Autonomy, and Optimization in Nonstationary Data Streams**
+Skilled in **Python, Matlab, MySQL, Generative AI, and Deep Learning frameworks** 
 
-Here are some ideas to get you started:
+How to reach me: ![Personal Website](https://cyrushasanvand.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 GitHub Stats
+![Cyrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusHasanvand&show_icons=true&theme=radical)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyrusHasanvand&layout=compact)
+
+
+✨ Always learning, always building.

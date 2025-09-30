@@ -6,7 +6,7 @@ Currently exploring **Robustness**, **Autonomy**, and **Optimization** in **Nons
 
 Skilled in **Python**, **Matlab**, **Generative AI**, **Deep Learning frameworks**, and **Databases (FAISS, MySQL, Dask, Spark, ChromaDB)**
 
-How to reach me: ![Personal Website](https://cyrushasanvand.github.io/)
+How to reach me: [Personal Website](https://cyrushasanvand.github.io/)
 
 ### GitHub Stats
 ![Cyrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyrusHasanvand&show_icons=true&theme=radical)

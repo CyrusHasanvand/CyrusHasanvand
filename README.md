@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Cyrus Hasanvand 
 
-Passionate about **Machine Learning, Computational Neuroscience, and AI-driven Systems**
+Passionate about **Continual Learning**, **Machine Learning**, **Computational Neuroscience**, and **AI-driven Systems**
 
-Currently exploring **Robustness, Autonomy, and Optimization in Nonstationary Data Streams**
+Currently exploring **Robustness**, **Autonomy**, and **Optimization** in **Nonstationary Data Streams**
 
-Skilled in **Python, Matlab, MySQL, Generative AI, and Deep Learning frameworks** 
+Skilled in **Python**, **Matlab**, **Generative AI**, **Deep Learning frameworks**, and **Databases (FAISS, MySQL, Dask, Spark, ChromaDB)**
 
 How to reach me: ![Personal Website](https://cyrushasanvand.github.io/)
 

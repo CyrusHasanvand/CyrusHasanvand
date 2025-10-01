@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Cyrus Hasanvand 
+## Hi, I’m Cyrus Hasanvand 
 
 Passionate about **Continual Learning**, **Machine Learning**, **Computational Neuroscience**, and **AI-driven Systems**
 

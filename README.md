@@ -1,6 +1,6 @@
 ## Hi, I’m Cyrus Hasanvand 
 
-Passionate about **Continual Learning**, **Machine Learning**, **Computational Neuroscience**, and **AI-driven Systems**
+Passionate about **Continual Learning**, **Machine Learning**, **Computational Neuroscience**, and **AI-Driven Systems**
 
 Currently exploring **Robustness**, **Autonomy**, and **Optimization** in **Nonstationary Data Streams**
 
